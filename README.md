@@ -26,16 +26,19 @@ A responsive, full-stack weather application built with **Spring Boot** (Backend
 
 1.  **Clone/Download** the repository.
 2.  Navigate to the `backend` directory.
-3.  Open `src/main/resources/application.properties` and ensure your API key is set:
-    ```properties
-    weather.api.key=YOUR_ACTUAL_API_KEY
+3.  **Configure API Key**:
+    The application now uses an environment variable for security. You can run it in two ways:
+
+    **Option A: Command Line (Easiest for testing)**
+    ```bash
+    mvn spring-boot:run -Dspring-boot.run.arguments=--weather.api.key=YOUR_OPENWEATHER_API_KEY_HERE
     ```
-    *(Get a free key from [WeatherAPI.com](https://www.weatherapi.com/))*
-4.  **Run the application**:
+
+    **Option B: Environment Variable**
+    Set `WEATHER_API_KEY` in your system environment variables, then run:
     ```bash
     mvn spring-boot:run
     ```
-    The server will start at `http://localhost:8080`.
 
 ### Frontend Setup
 
