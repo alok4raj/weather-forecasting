@@ -61,3 +61,4 @@ A responsive, full-stack weather application built with **Spring Boot** (Backend
 ## 📸 Screenshots
 
 *(Add screenshots here after running the app)*
+![weather report](image.png)
