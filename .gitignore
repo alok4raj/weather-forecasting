@@ -1,0 +1,17 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+.classpath
+.project
+.settings
+.sts4-cache
+bin/
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
