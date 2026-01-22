@@ -29,7 +29,7 @@ A responsive, full-stack weather application built with **Spring Boot** (Backend
 3.  **Configure API Key**:
     The application now uses an environment variable for security. You can run it in two ways:
 
-    **Option A: Command Line (Easiest for testing)**
+    **Option A: Command Line**
     ```bash
     mvn spring-boot:run -Dspring-boot.run.arguments=--weather.api.key=YOUR_OPENWEATHER_API_KEY_HERE
     ```
