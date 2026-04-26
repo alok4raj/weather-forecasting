@@ -1,0 +1,61 @@
+{
+    "me": "Alok",
+    "grandparents": {
+        "patriarch": "Bhuneshwar Modi",
+        "matriarch": "Chameli Devi"
+    },
+    "immediate_family": {
+        "parents": [
+            "Mahendra Modi",
+            "Leela Kant"
+        ],
+        "siblings": [
+            {
+                "name": "Roshni Vikrant",
+                "relation": "Sister",
+                "spouse": "Niraj Barnwal"
+            },
+            {
+                "name": "Rashmi Vikrant",
+                "relation": "Sister",
+                "spouse": "Rajan kumar"
+            }
+        ]
+    },
+    "extended_family": {
+        "uncles_and_aunts": [
+            "Kedar Modi & Tara Devi",
+            "Guddi Barnwal & Binod",
+            "Santosh Barnwal & Savita",
+            "Vinay Barnwal & Sanju"
+        ],
+        "first_cousins": [
+            {
+                "name": "Sandeep Surya",
+                "sister_in_law": "Neelam Barnwal"
+            },
+            {
+                "name": "Rajnesh Ranjan",
+                "sister_in_law": "Soni Kumari"
+            },
+            {
+                "name": "Nitish Nirala",
+                "sister_in_law": "Sonam Barnwal"
+            },
+            "Pritam",
+            "Priyanshu",
+            "Princy",
+            "Nayanshi",
+            "Jayshree",
+            "Aditya",
+            "Naman"
+        ],
+        "nieces_and_nephews": [
+            "Shivanya",
+            "Rishika",
+            "Parth",
+            "Shivansh",
+            "babu"
+        ]
+    }
+}
